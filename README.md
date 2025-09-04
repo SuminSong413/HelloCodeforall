@@ -2,7 +2,7 @@
 
 Hello world
 
-do you know kinchi?
+do you know kimchi?
 
 
 
